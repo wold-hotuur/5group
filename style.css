@@ -1,0 +1,51 @@
+p{
+    color: blue;
+    font-size: 25px;
+}
+h1{
+    font-size: 40px;
+    color: rgb(157, 0, 139);
+    text-align: center;
+}
+img{
+    display: block;
+    margin: 0 auto;
+    width: 82%;
+}
+.bgr{
+    background-image: url(./1.avif);
+    background-size: cover;
+    
+}
+ul {
+    list-style-type: none;
+    margin: 10px;
+    padding: 10px;
+    overflow: hidden;
+    background-color: #333;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li{
+    float: left;
+}
+li a:hover {
+    background-color: #111;
+}
+iframe{
+    display: block;
+    margin: 0 auto;
+}
+.pclass{
+    color: red;
+    font-size: 50px;
+}
+#pclass{
+    color: green;
+    font-size: 50px;
+}
